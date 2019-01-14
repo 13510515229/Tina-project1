@@ -1,2 +1,3 @@
 # Tina-project1
-个人项目练习
+Personal project practice
+hi,everyone!Welcome to my first project code repository
